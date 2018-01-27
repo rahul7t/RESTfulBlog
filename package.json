@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "thosar rahul",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express-sanitizer": "^1.0.3",
+    "method-override": "^2.3.10"
+  }
 }
